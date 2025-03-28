@@ -1,0 +1,40 @@
+.navbar-container {
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff33;
+    padding: 8px;
+  }
+  
+  .title-with-score-container {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 80%;
+    max-width: 1000px;
+  }
+  
+  .title-container {
+    display: flex;
+    align-items: center;
+  }
+  .emoji-logo {
+    height: 80px;
+    width: 80px;
+  }
+  .head {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Roboto';
+  }
+  
+  .score-container {
+    display: flex;
+  }
+  
+  .score {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Roboto';
+  }
+  
